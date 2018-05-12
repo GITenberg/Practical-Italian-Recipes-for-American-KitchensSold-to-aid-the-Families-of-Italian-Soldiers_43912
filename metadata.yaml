@@ -1,0 +1,27 @@
+_repo: Practical-Italian-Recipes-for-American-KitchensSold-to-aid-the-Families-of-Italian-Soldiers_43912
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43912-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cuniberti, Julia Lovejoy
+    gutenberg_agent_id: '42470'
+    url: http://www.gutenberg.org/2009/agents/42470
+description: ''
+gutenberg_issued: '2013-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43912'
+  lccn: '18001837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, Italian'
+- !lcc 'TX'
+title: 'Practical Italian Recipes for American Kitchens
+
+  Sold to aid the Families of Italian Soldiers'
+url: http://www.gutenberg.org/ebooks/43912
