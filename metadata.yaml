@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42470'
     url: http://www.gutenberg.org/2009/agents/42470
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43912#Practical-Italian-Recipes-for-American-KitchensSold-to-aid-the-Families-of-Italian-Soldiers
 gutenberg_issued: '2013-10-08'
 gutenberg_type: Text
 identifiers:
